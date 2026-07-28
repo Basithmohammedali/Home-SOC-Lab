@@ -1,0 +1,29 @@
+# Environment files
+.env
+.env.*
+
+# SSH Keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# VirtualBox
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+
+# OS Files
+.DS_Store
+Thumbs.db
