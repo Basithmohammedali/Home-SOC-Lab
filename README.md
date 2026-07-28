@@ -81,6 +81,20 @@ A detailed walkthrough of the complete project is available on Medium.
 
 ---
 
+## 🎥 Demo Video
+
+A complete demonstration of the Home SOC Lab workflow, including:
+
+- Attack simulation using Mythic C2
+- Detection in Elastic Security
+- Alert investigation in Kibana
+- Automatic incident creation in osTicket
+
+📹 **Download/Watch the demo:**  
+[Home SOC Lab Attack Detection & Response Demo](media/home-soc-lab-attack-detection-response.mp4)
+
+---
+
 # License
 
 MIT License
