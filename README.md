@@ -72,11 +72,12 @@ The primary objective of this project is to gain hands-on experience with SOC op
 
 ---
 
-# Medium Article
+## Medium Article
 
 A detailed walkthrough of the complete project is available on Medium.
 
-> *(Add your Medium article link here after publishing.)*
+🔗 **Read the full article:**  
+[Building a Home SOC Lab from Scratch using VirtualBox and ELK Stack](https://medium.com/@basithmohammedali7/building-a-home-soc-lab-from-scratch-using-virtualbox-and-elk-stack-8fe12ffe647b)
 
 ---
 
