@@ -1,5 +1,7 @@
 # Home SOC Lab
 
+![Home SOC Lab Architecture](docs/images/lab-architecture.png)
+
 A complete Home Security Operations Center (SOC) Lab built using VirtualBox and the Elastic Stack.
 
 ## Overview
